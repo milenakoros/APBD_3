@@ -1,6 +1,4 @@
 using LegacyApp;
-using Xunit;
-using System;
 
 namespace LegacyAppTests
 {
