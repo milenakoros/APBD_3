@@ -8,4 +8,4 @@
         public string Address { get; internal set; }
         public string Type { get; set; }
     }
-}//vvv
+}
